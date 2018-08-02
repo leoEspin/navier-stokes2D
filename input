@@ -1,0 +1,13 @@
+256        ! nx
+255        ! ny, best for FFT purposes is 2^l -1
+.40d0      ! rm
+0.1d0       ! read(1,*) del1
+0.1d0       ! read(1,*) del2
+0.0d0      ! read(1,*) phase
+1670.0d0	  !read(1,*) sigma
+0.21d0   	  !read(1,*) lambda
+0.05d0 	  !read(1,*) delta
+.10d0   	  !read(1,*) kap
+5100.d0   ! tmax
+1	! icont
+0.9d0	! gmma :average between upwinding/centered differences
