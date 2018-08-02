@@ -1,4 +1,4 @@
-# Fortran90
+# Navier-Stokes solver for channel with oscillatory walls
 Compile code running:
 make -f fullcode.makefile
 
