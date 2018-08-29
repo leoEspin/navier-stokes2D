@@ -1,8 +1,8 @@
 function create_movie(plot_type)
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-%script for creating an animation of oxygen concentration or averaged 
-%oxygen concentration, depending on the string argument passed to 
-%the function (either 'average' or any other string).
+%Matlab script for creating an animation of oxygen concentration or
+%averaged oxygen concentration, depending on the string argument 
+%passed to the function (either 'average' or any other string).
 %requires the files input, average.dat, and the script asymptoticC.m
 %plus all the solute files 'sltXX.dat' for making the movie frames.
 %NOTE: if an error indicating matrices with non-matching sizes, that
