@@ -1,4 +1,4 @@
-# Navier-Stokes solver for channel with oscillatory walls
+# Fast Navier-Stokes solver for 2D channel with oscillatory walls
 Compile code running:
 make -f fullcode.makefile (It requires the FFTW Fast Fourier Transform library)
 
